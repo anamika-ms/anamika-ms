@@ -23,11 +23,9 @@
    <br><br>
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anamika-maker-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="anamika-maker-ctrl" /> </p>
-<br>
- 
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-maker-ctrl" alt="anamika-maker-ctrl" /></a> </p>
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anamika m s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamika m s" height="30" width="40" /></a>
