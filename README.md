@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Django%20Framework;Learning%20ML%20And%20AI;Python%20Flask%20Framework;Fullstack%20Development&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=26" /></a>
 </p>
-<br>
+<br><br>
   <img align="right" alt="coding" width="240" height="240" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently working on **Full Stack Development**
@@ -15,6 +15,8 @@
 
 - 👩🏻‍💻 I’m looking to collaborate on **Cloud Native Projects**
 
+- 🫱🏻‍🫲🏼 I’m looking for help with **. NET**
+
 - 💬 Ask me about  **Python . Django . Flask**
 
 - 📫 How to reach me **anamikams2003@gmail.com**
@@ -22,7 +24,7 @@
    
  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=anamika-ms&label=Profile%20views&color=0e75b6&style=flat" alt="anamika-ms" /> </p>
 -->
-<br><br>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms" alt="anamika-ms" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
