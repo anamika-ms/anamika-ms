@@ -6,8 +6,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Django%20Framework;Learning%20ML%20And%20AI;Python%20Flask%20Framework;Fullstack%20Development&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=26" /></a>
 </p>
-<br><br>
-  <img align="right" alt="coding" width="240" height="240" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<br>
+  <img align="right" alt="coding" width="240" height="240" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"><br>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
