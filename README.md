@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Django%20Framework;Learning%20ML%20And%20AI;Python%20Flask%20Framework;Fullstack%20Development&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=26" /></a>
 </p>
 <br>
-  <img align="right" alt="coding" width="260" height="260" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+  <img align="right" alt="coding" width="270" height="270" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently working on **Full Stack Development**
 
