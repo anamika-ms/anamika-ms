@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anamika M S</h1>
+<h1 align="center">Hi 👋🏻, I'm Anamika M S</h1>
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 <p align="center">
   
@@ -13,18 +13,18 @@
 
 - 🌱 I’m currently learning  **ML & AI**
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+- 👩🏻‍💻 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **. NET**
+- 🫱🏻‍🫲🏼 I’m looking for help with **. NET**
 
 - 💬 Ask me about  **Python . Django . Flask**
 
 - 📫 How to reach me **anamikams2003@gmail.com**
    <br><br>
    
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anamika-maker-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="anamika-maker-ctrl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anamika-ms&label=Profile%20views&color=0e75b6&style=flat" alt="anamika-ms" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-maker-ctrl" alt="anamika-maker-ctrl" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms" alt="anamika-ms" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
