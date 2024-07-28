@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Anamika M S</h1>
+<h2 align="center">Hi 👋🏻, I'm Anamika M S</h2>
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 <p align="center">
   
