@@ -20,9 +20,9 @@
 
 - 📫 How to reach me **anamikams2003@gmail.com**
    <br>
-   
+   <!--
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anamika-ms&label=Profile%20views&color=0e75b6&style=flat" alt="anamika-ms" /> </p>
- <!--
+ 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms" alt="anamika-ms" /></a> </p>
 -->
