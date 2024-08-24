@@ -23,7 +23,7 @@
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anamika-ms&label=Profile%20views&color=0e75b6&style=flat" alt="anamika-ms" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms&rank=AAA,B,C,SA,BB" alt="anamika-ms" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms&rank=A,B,C,A,B" alt="anamika-ms" /></a> </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SAA,AA,A,BBC,BC,A,B,C" /></p>
