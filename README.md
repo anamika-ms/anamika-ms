@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 <p align="center">
   
-  Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg 
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Django%20Framework;Learning%20ML%20And%20AI;Python%20Flask%20Framework;Fullstack%20Development&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=26" /></a>
 </p>
@@ -20,12 +20,12 @@
 
 - 📫 How to reach me **anamikams2003@gmail.com**
    <br>
-<!--
+
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anamika-ms&label=Profile%20views&color=0e75b6&style=flat" alt="anamika-ms" /> </p>
  
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms" alt="anamika-ms" /></a> </p>
--->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anamika-m-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamika m s" height="30" width="40" /></a>
