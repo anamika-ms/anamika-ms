@@ -26,7 +26,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms" alt="anamika-ms" /></a> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms&theme=flat alt="anamika-ms" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=anamika-ms&theme=flat" ><img src="https://github-profile-trophy.vercel.app/?username=anamika-ms&theme=flat" alt="anamika-ms" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
