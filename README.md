@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning  **ML & AI**
+- 🌱 I’m currently Pursuing **MCA**
 
 - 👩‍💻 I’m looking to collaborate on **Cloud Native Projects**
 
