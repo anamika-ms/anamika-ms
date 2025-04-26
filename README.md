@@ -2,9 +2,9 @@
 <h2 align="center">A Passionate Fullstack Developer From India</h2>
 <p align="center">
   
- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg 
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Django%20Framework;Learning%20ML%20And%20AI;Python%20Flask%20Framework;Fullstack%20Development&font=Times New Roman%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=28" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Django%20Framework;Learning%20ML%20And%20AI;Python%20Flask%20Framework;Fullstack%20Development&font=Times New Roman%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=28" /></a>-->
 </p>
   <img align="right" alt="coding" width="270" height="270" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <h3>
